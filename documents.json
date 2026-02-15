@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "content": "This contract contains liability clauses regarding vendor obligations.",
+    "metadata": {"source": "contract1.txt"}
+  },
+  {
+    "id": 1,
+    "content": "The agreement defines payment terms and termination rights.",
+    "metadata": {"source": "contract2.txt"}
+  }
+]
